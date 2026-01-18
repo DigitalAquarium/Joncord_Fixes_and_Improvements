@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "x": [
+      {
+        "item": "minecraft:bone"
+      },
+      {
+        "tag": "forge:bones"
+      }
+    ],
+    "y": [
+      {
+        "tag": "forge:deepslate"
+      },
+      {
+        "item": "minecraft:deepslate"
+      }
+    ]
+  },
+  "pattern": [
+    " yy",
+    " x ",
+    "yy "
+  ],
+  "result": {
+    "item": "mca:deepslate_slanted_headstone",
+    "count": 1
+  }
+}

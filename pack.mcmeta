@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "description": "Fixes yet also Improvements for Joncord 1.20.1",
+      "pack_format": 15,
+      "supported_formats": {"min_inclusive": 15, "max_inclusive": 15},
+	    "min_format": 15,
+	    "max_format": 15
+  }
+}

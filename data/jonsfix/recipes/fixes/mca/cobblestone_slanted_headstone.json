@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "x": [
+      {
+        "item": "minecraft:bone"
+      },
+      {
+        "tag": "forge:bones"
+      }
+    ],
+    "y": [
+      {
+        "tag": "forge:cobblestone/normal"
+      },
+      {
+        "tag": "forge:cobblestone/mossy"
+      },
+      {
+        "item": "minecraft:cobblestone"
+      }
+    ]
+  },
+  "pattern": [
+    " yy",
+    " x ",
+    "yy "
+  ],
+  "result": {
+    "item": "mca:cobblestone_slanted_headstone",
+    "count": 1
+  }
+}

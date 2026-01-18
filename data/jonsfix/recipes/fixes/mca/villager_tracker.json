@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:ingots/rose_gold"
+    },
+    "E": {
+      "item": "minecraft:ender_eye"
+    },
+    "C": {
+      "item": "minecraft:compass"
+    }
+  },
+  "pattern": [
+    "AEA",
+    "ACA",
+    "AAA"
+  ],
+  "result": {
+    "item": "mca:villager_tracker",
+    "count": 1
+  }
+}

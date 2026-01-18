@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "x": [
+      {
+        "item": "minecraft:bone"
+      },
+      {
+        "tag": "forge:bones"
+      }
+    ],
+    "y": [
+      {
+        "tag": "forge:stone"
+      },
+      {
+        "item": "minecraft:stone"
+      }
+    ]
+  },
+  "pattern": [
+    "yy ",
+    "xx ",
+    "yy "
+  ],
+  "result": {
+    "item": "mca:upright_headstone",
+    "count": 1
+  }
+}

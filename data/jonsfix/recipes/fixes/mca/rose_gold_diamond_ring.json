@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "forge:ingots/rose_gold"
+    },
+    "D": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "pattern": [
+    "ADA",
+    "A A",
+    "AAA"
+  ],
+  "result": {
+    "item": "mca:engagement_ring_rg",
+    "count": 1
+  }
+}

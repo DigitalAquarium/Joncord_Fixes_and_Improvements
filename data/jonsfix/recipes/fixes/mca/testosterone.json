@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "z": {
+      "item": "minecraft:glass_bottle"
+    },
+    "x": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "y": [
+      {
+        "item": "minecraft:egg"
+      },
+      {
+        "tag": "forge:egg"
+      },
+      {
+        "tag": "balm:eggs"
+      },
+      {
+        "tag": "forge:eggs"
+      }
+    ]
+  },
+  "pattern": [
+    "   ",
+    "yzx",
+    "   "
+  ],
+  "result": {
+    "item": "mca:potion_of_masculinity",
+    "count": 1
+  }
+}

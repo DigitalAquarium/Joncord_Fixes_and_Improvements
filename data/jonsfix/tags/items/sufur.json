@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+      {"tag":"forge:dusts/sulfur"},
+      {"item":"tfmg:sulfur_dust"},
+      {"item":"bloodmagic:sulfur"},
+      {"item":"chemlib:sulfur_dust"},
+      {"item":"immersive_engineering:dust_sulfur"}
+  ]
+}

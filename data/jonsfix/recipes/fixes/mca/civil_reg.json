@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "x": [
+      {
+        "item": "minecraft:emerald"
+      },
+      {
+        "tag": "forge:gems/emerald"
+      }
+    ],
+    "t": {
+      "item": "minecraft:writable_book"
+    },
+    "z": {
+      "tag": "forge:ingots/rose_gold"
+    }
+  },
+  "pattern": [
+    "   ",
+    "xtz",
+    "   "
+  ],
+  "result": {
+    "item": "mca:potion_of_feminity",
+    "count": 1
+  }
+}

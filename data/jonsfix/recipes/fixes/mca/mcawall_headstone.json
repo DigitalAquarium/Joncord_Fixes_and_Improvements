@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "x": [
+      {
+        "item": "minecraft:bone"
+      },
+      {
+        "tag": "forge:bones"
+      }
+    ],
+    "y": [
+      {
+        "item": "minecraft:cobblestone"
+      },
+      {
+        "tag": "forge:cobblestone"
+      },
+      {
+        "tag": "minecraft:stone_tool_materials"
+      },
+      {
+        "tag": "forge:stone"
+      },
+      {
+        "item": "minecraft:stone"
+      }
+    ]
+  },
+  "pattern": [
+    "y  ",
+    "yx ",
+    "y  "
+  ],
+  "result": {
+    "item": "mca:wall_headstone",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+"recipe": {
+        "type": "alchemistry:dissolver",
+        "group": "alchemistry:dissolver",
+        "input": {
+          "count": 1,
+          "ingredient": {
+              [
+                {"tag": "forge:storage_blocks/sulfur"}
+                {"item": "tfmg:sulfur"}
+              ]
+          }
+        },
+        "output": {
+          "groups": [
+            {
+              "probability": 100.0,
+              "results": [
+                {
+                  "count": 64,
+                  "item": "chemlib:sulfur"
+                },
+                {
+                  "count": 64,
+                  "item": "chemlib:sulfur"
+                },
+                {
+                  "count": 16,
+                  "item": "chemlib:sulfur"
+                }
+              ]
+            }
+          ],
+          "rolls": 1,
+          "weighted": false
+        }
+}
