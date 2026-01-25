@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": [
+      {
+        "item": "ecologics:azalea_planks"
+      },
+      {
+        "tag": "tconstruct:slimy_planks"
+      },
+      {
+        "item": "ecologics:coconut_planks"
+      },
+      {
+        "item": "ecologics:walnut_planks"
+      },
+      {
+        "item": "ecologics:flowering_azalea_planks"
+      },
+      {
+        "item": "enhanced_mushrooms:mushroom_planks"
+      }
+    ]
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "AAA"
+  ],
+  "result": {
+    "item": "minecraft:chest",
+    "count": 1
+  }
+}
