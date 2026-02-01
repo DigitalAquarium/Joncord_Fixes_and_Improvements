@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": {
+      "item": "enhanced_mushrooms:mushroom_planks"
+    },
+    "a": {
+      "item": "minecraft:honeycomb"
+    }
+  },
+  "pattern": [
+    "mmm",
+    "aaa",
+    "mmm"
+  ],
+  "result": {
+    "item": "enhanced_mushrooms:mushroom_beehive",
+    "count": 1
+  }
+}

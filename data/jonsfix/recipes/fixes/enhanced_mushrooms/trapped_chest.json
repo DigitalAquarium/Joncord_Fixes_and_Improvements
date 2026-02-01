@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:tripwire_hook"
+    },
+    {
+      "item": "enhanced_mushrooms:mushroom_chest"
+    }
+  ],
+  "result": {
+    "item": "enhanced_mushrooms:mushroom_trapped_chest",
+    "count": 1
+  }
+}

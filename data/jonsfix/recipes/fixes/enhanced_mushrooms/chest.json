@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "m": {
+      "item": "enhanced_mushrooms:mushroom_planks"
+    }
+  },
+  "pattern": [
+    "mmm",
+    "m m",
+    "mmm"
+  ],
+  "result": {
+    "item": "enhanced_mushrooms:mushroom_chest",
+    "count": 1
+  }
+}
