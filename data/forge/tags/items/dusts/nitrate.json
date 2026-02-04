@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+      "tfmg:nitrate_dust",
+      "immersiveengineering:dust_saltpeter"
+  ]
+}
