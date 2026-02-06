@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "YYY",
+    "YXY",
+    "YYY"
+  ],
+  "key": {
+    "X": {
+      "item": "buddingcrystals:crystal_catalyst"
+    },
+    "Y": {
+      "item": "betterend:smaragdant_crystal_shard"
+    }
+  },
+  "result": {
+    "item": "betterend:budding_smaragdant_crystal",
+    "count": 1
+  }
+}

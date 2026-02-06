@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "YYY",
+    "YXY",
+    "YYY"
+  ],
+  "key": {
+    "X": {
+      "item": "buddingcrystals:crystal_catalyst"
+    },
+    "Y": {
+      "item": "northstar:lunar_sapphire_shard"
+    }
+  },
+  "result": {
+    "item": "northstar:budding_lunar_sapphire_block",
+    "count": 1
+  }
+}
