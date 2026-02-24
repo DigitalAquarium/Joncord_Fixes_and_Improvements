@@ -6,9 +6,9 @@
   "cooling_time": 25,
   "fluid": {
     "amount": 10,
-    "id": "tinkers_ingenuity:molten_mithril"
+    "fluid": "tinkers_ingenuity:molten_mithril"
   },
   "result": {
-    "id": "tinkers_ingenuity:mithril_nugget"
+    "item": "tinkers_ingenuity:mithril_nugget"
   }
 }
